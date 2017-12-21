@@ -1,0 +1,3 @@
+The Resources folder contains additional assets needed at runtime such as images. Files in this folder should have a
+build action of BundleResource and are included with the generated application package to be installed on a device.
+The template creates some icon assets and a launch screen which is displayed when the app starts.

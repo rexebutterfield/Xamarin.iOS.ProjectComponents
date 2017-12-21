@@ -1,0 +1,3 @@
+The AppDelegate.cs is responsible for creating the main window and listening to operating system events. It contains
+a class implementation that derives from UIApplicationDelegate. You must override virtual methods in this class to 
+process the received operating system events.

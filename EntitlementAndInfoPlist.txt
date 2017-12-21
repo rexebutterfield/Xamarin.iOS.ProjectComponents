@@ -1,0 +1,4 @@
+iOS uses property list files to store application metadata as key/value pairs. Entitlements.plist lists external Apple services
+that your app wants to interact with such as in-app purchases, HealthKit or push notifications. Info.plist identifies app
+icons, version number, app name and other app details. Both IDEs include a GUI editor for these files to edit the most
+common settings.

@@ -1,0 +1,3 @@
+Main.cs contains the main entry point for the application in the form of a standard .NET static void Main method. It
+starts up the iOS UI framework UIKit and identifies the App Delegate; which will bring up the initial screen for the 
+application. Be caution about adding code into the Main method - iOS has time limits on app launches.

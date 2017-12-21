@@ -1,0 +1,3 @@
+The Components folder contains components downloaded from the Xamarin Component Store - components.xamarin.com.
+The Packages folder contains any referenced Nuget packages - www.nuget.org. Components/Packages must either
+be compiled as a portable library, or against Xamarin.iOS.

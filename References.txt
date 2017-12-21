@@ -1,0 +1,3 @@
+The References folder contains required compile and runtime assemblies. You can add new assemblies through
+context menu by right-clicking on the References folder. Referenced assemblies must either be compatible portable
+class libraries, or compiled against Xamarin.iOS. You cannot use desktop .NET assemblies directly.

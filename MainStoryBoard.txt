@@ -1,0 +1,3 @@
+MainStoryBoard.storyboard contains the declarative XML definition of all the screens in the application; this file is not
+present for game-based templates. Xamarin.iOS includes a built-in designer integrated into both IDEs, or you can use
+Interface Builder in Xcode. The primary storyboard is identified in the info.plist.

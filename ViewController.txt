@@ -1,0 +1,3 @@
+The RootViewController.cs contains the behavior for the initial screen. Each screen in your app will have a view controller
+source file associated with it. Id is a partial-class definition used by the designer to connect elements in the storyboard
+with the code defined in the view controller.
